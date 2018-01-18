@@ -1,0 +1,10 @@
+C:\Users\esaha\github\csharp\testipaska\bin\Debug\netcoreapp2.0\testipaska.deps.json
+C:\Users\esaha\github\csharp\testipaska\bin\Debug\netcoreapp2.0\testipaska.runtimeconfig.json
+C:\Users\esaha\github\csharp\testipaska\bin\Debug\netcoreapp2.0\testipaska.runtimeconfig.dev.json
+C:\Users\esaha\github\csharp\testipaska\bin\Debug\netcoreapp2.0\testipaska.dll
+C:\Users\esaha\github\csharp\testipaska\bin\Debug\netcoreapp2.0\testipaska.pdb
+C:\Users\esaha\github\csharp\testipaska\obj\Debug\netcoreapp2.0\testipaska.csproj.CoreCompileInputs.cache
+C:\Users\esaha\github\csharp\testipaska\obj\Debug\netcoreapp2.0\testipaska.AssemblyInfoInputs.cache
+C:\Users\esaha\github\csharp\testipaska\obj\Debug\netcoreapp2.0\testipaska.AssemblyInfo.cs
+C:\Users\esaha\github\csharp\testipaska\obj\Debug\netcoreapp2.0\testipaska.dll
+C:\Users\esaha\github\csharp\testipaska\obj\Debug\netcoreapp2.0\testipaska.pdb
