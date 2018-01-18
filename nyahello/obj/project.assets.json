@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esaha\\github\\csharp\\nyahello\\nyahello.csproj",
+      "projectUniqueName": "c:\\Users\\esaha\\github\\csharp\\nyahello\\nyahello.csproj",
       "projectName": "nyahello",
-      "projectPath": "C:\\Users\\esaha\\github\\csharp\\nyahello\\nyahello.csproj",
+      "projectPath": "c:\\Users\\esaha\\github\\csharp\\nyahello\\nyahello.csproj",
       "packagesPath": "C:\\Users\\esaha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esaha\\github\\csharp\\nyahello\\obj\\",
+      "outputPath": "c:\\Users\\esaha\\github\\csharp\\nyahello\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
