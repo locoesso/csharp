@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "testipaska/1.0.0": {
+      "nyahello/1.0.0": {
         "runtime": {
-          "testipaska.dll": {}
+          "nyahello.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "testipaska/1.0.0": {
+    "nyahello/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

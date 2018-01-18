@@ -1,0 +1,10 @@
+C:\Users\esaha\github\csharp\nyahello\bin\Debug\netcoreapp2.0\nyahello.deps.json
+C:\Users\esaha\github\csharp\nyahello\bin\Debug\netcoreapp2.0\nyahello.runtimeconfig.json
+C:\Users\esaha\github\csharp\nyahello\bin\Debug\netcoreapp2.0\nyahello.runtimeconfig.dev.json
+C:\Users\esaha\github\csharp\nyahello\bin\Debug\netcoreapp2.0\nyahello.dll
+C:\Users\esaha\github\csharp\nyahello\bin\Debug\netcoreapp2.0\nyahello.pdb
+C:\Users\esaha\github\csharp\nyahello\obj\Debug\netcoreapp2.0\nyahello.csproj.CoreCompileInputs.cache
+C:\Users\esaha\github\csharp\nyahello\obj\Debug\netcoreapp2.0\nyahello.AssemblyInfoInputs.cache
+C:\Users\esaha\github\csharp\nyahello\obj\Debug\netcoreapp2.0\nyahello.AssemblyInfo.cs
+C:\Users\esaha\github\csharp\nyahello\obj\Debug\netcoreapp2.0\nyahello.dll
+C:\Users\esaha\github\csharp\nyahello\obj\Debug\netcoreapp2.0\nyahello.pdb
